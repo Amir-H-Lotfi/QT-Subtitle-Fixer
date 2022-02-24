@@ -6,7 +6,8 @@ For more information visit [Qt dnd](https://doc.qt.io/qt-5/dnd.html).
 ### Prerequisites
 - QT community 5.15 or higher.
 
-Run the program. Drag and drop '.srt' file(s). Enjoy !!!
+Import project and run.
+Enjoy !!!.
 
 ## Test
 - Single File
