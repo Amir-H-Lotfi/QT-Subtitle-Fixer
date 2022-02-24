@@ -1,6 +1,6 @@
 # QT-Subtitle-Fixer
-A Simple Application build upon C++ QT Framework.i focused on implementing Drag and Drop scenario in QT.
-For every visual Component we need to extends classes to access some features. For more information visit [website](https://doc.qt.io/qt-5/dnd.html).
+A Simple Application build upon C++ Qt Framework.i focused on implementing Drag and Drop scenario in Qt.
+For every visual Component we need to extends classes to access some features. For more information visit [Qt dnd](https://doc.qt.io/qt-5/dnd.html).
 
 ## Quick Start
 ### Prerequisites
